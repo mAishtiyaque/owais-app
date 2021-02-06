@@ -8,4 +8,4 @@ def index():
 #def about_us():
 #    return render_template('about_us.html')
 
-app.run(debug=True)
+app.run(threaded=True, port=5000)
