@@ -10,6 +10,6 @@ protobuf==3.14.0
 PyPDF2==1.26.0
 pypiwin32==223
 pyttsx3==2.90
-pywin32==222
+pywin32==300
 six==1.15.0
 Werkzeug==1.0.1
