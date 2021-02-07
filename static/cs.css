@@ -80,9 +80,6 @@ img:hover{
     .heading-secondary{
       font-size: 18px;
     }
-    .heading-secondary{
-      font-size: 2px;
-    }
   .column {
     flex: 45%;
     max-width: 45%;
